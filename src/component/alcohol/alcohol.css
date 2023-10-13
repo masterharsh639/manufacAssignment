@@ -1,0 +1,18 @@
+/* Alcohol.css */
+.wine-table {
+  width: 100%; /* Set the table width to 100% of its container */
+  border-collapse: collapse; /* Collapse borders to prevent spacing between cells */
+}
+
+.wine-table th,
+.wine-table td {
+  border: 1px solid #ddd; /* Add a border to table cells */
+  padding: 8px; /* Add padding to cell content */
+  text-align: center; /* Center align cell content */
+}
+
+.wine-table th {
+  background-color: #f2f2f2; /* Gray background for table header */
+}
+
+/* Add more styles as needed */
